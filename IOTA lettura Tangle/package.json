@@ -1,0 +1,15 @@
+{
+  "name": "iota_lettura",
+  "version": "1.0.0",
+  "description": "Lettura di dati da Tangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Maffeo",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.30",
+    "@iota/extract-json": "^1.0.0-beta.30"
+  }
+}
