@@ -1,7 +1,8 @@
 # Read messages from IOTA Tangle - Bachelor's thesis experiments - Federico Maffeo
 
 This project is part of my Bachelor's thesis, which is about IOTA.
-Thesis work performed in collaboration with the [IDALab laboratory @ Università del Salento - Italy](https://www.unisalento.it/laboratori/dipartimento-di-ingegneria-dell-innovazione/-/asset_publisher/xH087ATXxY3i/content/ida-lab/3087679)
+
+Thesis work was performed in collaboration with the [IDALab laboratory @ Università del Salento - Italy](https://www.unisalento.it/laboratori/dipartimento-di-ingegneria-dell-innovazione/-/asset_publisher/xH087ATXxY3i/content/ida-lab/3087679)
 
 The project consists in a script (`index.js`) that reads a message contained in the IOTA Tangle inside a zero-value transaction.
 
